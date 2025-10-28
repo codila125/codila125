@@ -60,6 +60,12 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
 
+###
+
+###
+<a href="https://www.credly.com/badges/7e97b96b-3d3e-49ef-85b5-53cd30e3604f/public_url" target="_blank" rel="noopener">
+  <img src="aws-academy-graduate-cloud-foundations-training-bad.png" height="120" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" />
+</a>
 </div>
 
 ###
