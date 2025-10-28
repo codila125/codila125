@@ -27,13 +27,13 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
 <img width="12" />
-<img src="https://tanstack.com/images/logos/logo-color-100.png" height="60" alt="tanstack logo"  />
+<img src="https://tanstack.com/images/logos/logo-color-600.png" height="60" alt="tanstack logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
 <img width="12" />
 <img src="https://bun.com/logo.svg" height="60" alt="bun logo"  />
 <img width="12" />
-<img src="https://github.com/usebruno/bruno/raw/main/assets/images/logo-transparent.png" height="60" alt="bruno logo"  />
+<img src="https://github.com/usebruno/bruno/blob/main/assets/images/logo-transparent.png?raw=true" height="60" alt="bruno logo"  />
 
 ###
 
@@ -57,8 +57,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/arduino/00979D" height="60" alt="arduino logo"  />
 
 ###
 
