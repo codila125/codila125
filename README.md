@@ -64,7 +64,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codila125&locale=en&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2&hide_progress=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codila125&locale=en&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&order=2&hide_progress=true" height="250" alt="languages graph"  />
 </div>
 
 ###
