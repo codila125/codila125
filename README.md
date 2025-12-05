@@ -63,13 +63,6 @@
 ###
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codila125&locale=en&layout=compact&langs_count=6&theme=gruvbox&hide_border=true&order=2&hide_progress=true" height="250" alt="languages graph"  />
-</div>
-
-###
-
-###
 <a href="https://www.credly.com/badges/7e97b96b-3d3e-49ef-85b5-53cd30e3604f/public_url" target="_blank" rel="noopener">
   <img src="aws-academy-graduate-cloud-foundations-training-bad.png" height="120" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" />
 </a>
