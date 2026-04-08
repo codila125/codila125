@@ -58,7 +58,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="60" alt="bun logo"  />
 <img width="12" />
-<img src="https://github.com/usebruno/bruno/blob/main/assets/images/logo-transparent.png?raw=true" height="60" alt="bruno logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" alt="postman logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
 
