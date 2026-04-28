@@ -68,6 +68,9 @@
 <a href="https://www.credly.com/badges/7e97b96b-3d3e-49ef-85b5-53cd30e3604f/public_url" target="_blank" rel="noopener">
   <img src="aws-academy-graduate-cloud-foundations-training-bad.png" height="120" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" />
 </a>
+<a href="https://www.credly.com/badges/8c055e7c-7c8c-4ee8-a382-becdeafce754/public_url" target="_blank" rel="noopener">
+  <img src="aws-academy-graduate-cloud-architecting-training-ba.png" height="120" alt="AWS Academy Graduate - Cloud Architecting - Training Badge" />
+</a>
 </div>
 
 ###
