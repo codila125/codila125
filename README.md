@@ -43,7 +43,7 @@
 ###
 
 ### 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="aws logo"  />
+<img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" height="60" alt="aws logo"  />
 
 ###
 
